@@ -1,0 +1,1 @@
+[node.js - Local dependency in package.json - Stack Overflow](https://stackoverflow.com/questions/14381898/local-dependency-in-package-json)

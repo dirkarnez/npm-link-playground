@@ -1,0 +1,6 @@
+{
+    "name": "baz",
+    "dependencies": {
+      "bar": "file:./packages/bar"
+    }
+  }
