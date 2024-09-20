@@ -22,17 +22,13 @@
     "email": "",
     "url": ""
   },
-  "contributors": [
-
-  ],
+  "contributors": [],
   "scripts": {
     "dev": "",
     "test": ""
   },
   "dependencies": {
-    "bar": "file:./packages/bar"
-  },
-  "devDependencies": {
-
+    "bar": "file:./packages/bar",
+    "form-data": "file:./packages/form-data"
   }
 }
