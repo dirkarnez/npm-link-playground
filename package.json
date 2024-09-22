@@ -28,7 +28,6 @@
     "test": ""
   },
   "dependencies": {
-    "bar": "file:./packages/bar",
-    "form-data": "file:./packages/form-data"
+    "bar": "file:packages/bar"
   }
 }
